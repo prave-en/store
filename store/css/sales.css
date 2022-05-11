@@ -1,0 +1,24 @@
+.printbtn{
+    background-color:#696969;
+    width:200px;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 15px;
+  }
+  .printbtn:hover{
+    background-color: #484848
+  }
+  .purchase{
+    text-decoration: underline;
+    width: 100%;
+  }
+
+  .container{
+  height: 411px;
+}

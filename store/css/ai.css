@@ -1,0 +1,13 @@
+tr tr th{
+    position: sticky;
+    top: 0;
+   height: 25px;
+  }
+
+   tr tr:hover{
+   color: black;
+   }
+
+   input[type=text]{
+    height: 25px;
+  }

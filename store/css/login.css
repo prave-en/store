@@ -1,0 +1,45 @@
+ body{
+      background-color: #ffffff;
+    }
+
+    .box{
+      border-radius: 50px;
+      box-shadow: 5px 5px #0B203E;
+      margin-top: 20px;
+    }
+
+    input[type=text],input[type=password]{
+    width: 70%;
+  }
+
+   input[type=text]:focus,input[type=password]:focus{
+   background-color: #cccccc;
+  }
+
+  .entrybtn{
+      background-color: #0B203E;
+      width: 70%;
+      color: white;
+      
+    }
+    .entrybtn:hover{
+      background-color: #092d61;
+    }
+    .hr2{
+      margin-top: 6%;
+    }
+
+    .hr1{
+     margin-top: 0px;
+    }
+    .lnimg{
+      margin-top: 20px;
+      margin-left: 50px;
+      display: inline-block;
+    }
+    .lntitle{
+      display: inline-block;
+      text-align: center;
+      margin-left: 35%;
+    }
+ 

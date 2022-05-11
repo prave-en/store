@@ -1,0 +1,27 @@
+tr tr th{
+    position: sticky;
+    top: 0;
+    height: 25px;
+    
+   }
+
+   tr tr:hover{
+    color: black;
+   }
+
+   @media screen and (max-width: 830px){
+  table tr {
+    font-size: 12px;
+  }
+}
+
+    input[type=text]{
+    width: 70%;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+  }
+   input[type=text]:focus{
+   background-color: #cccccc;
+  }
